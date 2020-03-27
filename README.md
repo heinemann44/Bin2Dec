@@ -1,6 +1,7 @@
 # bin_2_dec
 
-A new Flutter application.
+A simple new Flutter application to convert binary number to decimal, make for train mobx in flutter.
+
 
 ## Getting Started
 
